@@ -1,6 +1,3 @@
-# Architecture
+# Nexoryx_MLOps_Platform Architecture
 
-Airflow -> Spark -> MLflow -> MinIO
-
-Monitoring:
-Grafana + Prometheus
+Production-grade infrastructure automation.
